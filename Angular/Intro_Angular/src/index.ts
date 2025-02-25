@@ -1,0 +1,10 @@
+type heroi = {
+    name: string;
+    vulgo: string;
+}
+
+function printaObjeto(pessoa: heroi) {
+    console.log(pessoa);
+}
+
+printaObjeto({name: 'Clark Kent', vulgo: 'Superman'});
