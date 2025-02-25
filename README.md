@@ -48,8 +48,7 @@ Este bootcamp é uma oportunidade única para mergulhar em projetos práticos, a
 
 - [Documentação oficial do Spring Boot](https://spring.io/projects/spring-boot)
 - [Documentação oficial do Angular](https://angular.io/docs)
-- [Curso de Java da DIO](https://web.dio.me)
-- [Curso de Angular da DIO](https://web.dio.me)
+- [Bootcamp Decolha Tech 2025](https://www.dio.me/bootcamp/decola-tech-2025)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/)
 
 ---
