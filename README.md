@@ -48,7 +48,7 @@ Este bootcamp é uma oportunidade única para mergulhar em projetos práticos, a
 
 - [Documentação oficial do Spring Boot](https://spring.io/projects/spring-boot)
 - [Documentação oficial do Angular](https://angular.io/docs)
-- [Bootcamp Decolha Tech 2025](https://www.dio.me/bootcamp/decola-tech-2025)
+- [Bootcamp Decola Tech 2025](https://www.dio.me/bootcamp/decola-tech-2025)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/)
 
 ---
@@ -66,4 +66,4 @@ Um agradecimento especial à [Digital Innovation One](https://www.dio.me) e a **
 ---
 
 Feito com ❤️ por [Guilherme Castro](https://github.com/cguiama)  
-🔗 **LinkedIn:** [Guilherme Castro](https://www.linkedin.com/in/cguiama)
+🔗[Meu perfil no Linkedin](https://www.linkedin.com/in/cguiama)
