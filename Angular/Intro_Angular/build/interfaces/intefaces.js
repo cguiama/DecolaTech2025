@@ -15,3 +15,5 @@ class Pessoa {
         return 'Hello';
     }
 }
+const p = new Pessoa(1, "Pessoinha");
+console.log(p.sayHello());
