@@ -1,0 +1,25 @@
+div{
+  margin: 0 auto;
+  border-radius: 0.15rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: var(--color-bg-light);
+  max-width: 80%;
+  max-height: 10rem;
+  padding: 0.5rem;
+  box-sizing: border-box;
+  overflow: hidden;
+  gap: 0.25rem;
+  box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.24);
+
+}
+
+img{
+  max-width: 75%;
+  max-height: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 0.05rem;
+  opacity: 80%;
+}

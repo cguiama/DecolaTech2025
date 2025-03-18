@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&family=Gasoek+One&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+  --font-gasoek: "Gasoek One", sans-serif;
+  --font-inter: "Inter", sans-serif;
+  --font-antonio: "Antonio", sans-serif;
+
+  --font-vsmall: 0.25rem;
+  --font-msmall: 0.4rem;
+  --font-small: 0.5rem;
+  --font-regular: 0.65rem;
+  --font-medium: 1rem;
+  --font-big: 2rem;
+}
+
+.gasoek-one-regular {
+  font-family: var(--font-gasoek);
+  font-weight: 400;
+  font-style: normal;
+}
+
+.inter-font {
+  font-family: var(--font-inter);
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.antonio-font {
+  font-family: var(--font-antonio);
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.font-very-small {
+  font-size: var(--font-vsmall);
+}
+
+.font-small {
+  font-size: var(--font-small);
+}
+.font-regular{
+  font-size: var(--font-regular);
+}
+
+.font-big {
+  font-size: var(--font-big);
+}

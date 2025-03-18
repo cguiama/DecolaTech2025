@@ -1,0 +1,12 @@
+*{
+  background-color: #EA7060;
+  border-radius: 1.5rem;
+  border: solid 0.8px #312B26;
+  box-shadow: 0.094rem 0.125rem 0 0.006rem #312B26;
+  font-family: var(--font-inter);
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 0.015rem 0.3rem;
+  text-align: center;
+  text-decoration: none;
+}
